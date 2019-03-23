@@ -1,0 +1,17 @@
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\bin\Debug\ExtendedWebBrowser2.exe.config
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\bin\Debug\ExtendedWebBrowser2.exe
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\bin\Debug\ExtendedWebBrowser2.pdb
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\bin\Debug\ExtendedWebBrowser2.exe.CodeAnalysisLog.xml
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\bin\Debug\ExtendedWebBrowser2.exe.lastcodeanalysissucceeded
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.csprojAssemblyReference.cache
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.AboutForm.resources
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.BrowserControl.resources
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.MainForm.resources
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.OpenUrlForm.resources
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.OptionsForm.resources
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.Properties.Resources.resources
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.ScriptErrorWindow.resources
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.csproj.GenerateResource.cache
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.csproj.CoreCompileInputs.cache
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.exe
+E:\c#\ExtendedWebBrowser2_Src\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.pdb
